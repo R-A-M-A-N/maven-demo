@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1248" started-at="2019-10-16T14:07:31Z" finished-at="2019-10-16T14:07:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1248" started-at="2019-10-16T14:07:31Z" finished-at="2019-10-16T14:07:33Z">
+      <class name="com.mycompany.test.maven_demo.DataProviderDemo">
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.mycompany.test.maven_demo.DataProviderDemo@4678c730]" name="login" duration-ms="22" started-at="2019-10-16T19:37:33Z" data-provider="TestData" finished-at="2019-10-16T19:37:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mercury]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mercury]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.mycompany.test.maven_demo.DataProviderDemo@4678c730]" name="login" duration-ms="5" started-at="2019-10-16T19:37:33Z" data-provider="TestData" finished-at="2019-10-16T19:37:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[aaa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ssdf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.mycompany.test.maven_demo.DataProviderDemo@4678c730]" name="login" duration-ms="1" started-at="2019-10-16T19:37:33Z" data-provider="TestData" finished-at="2019-10-16T19:37:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[aaa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ssdf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.mycompany.test.maven_demo.DataProviderDemo@4678c730]" name="login" duration-ms="2" started-at="2019-10-16T19:37:33Z" data-provider="TestData" finished-at="2019-10-16T19:37:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[aaa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ssdf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.mycompany.test.maven_demo.DataProviderDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
